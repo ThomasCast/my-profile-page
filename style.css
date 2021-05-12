@@ -1,0 +1,30 @@
+body {
+  background-color: #c7cfb7;
+  font-family: 'Roboto', sans-serif;
+  color: #f7f7e8;
+  font-size: 16px;
+  line-height: normal;
+}
+
+h1, h2 {
+  font-family: 'Roboto', sans-serif;
+  font-size: 32px;
+  color: #557174;
+}
+
+a {
+  text-decoration: none;
+  color: #557174;
+  font-size: 32px;
+  line-height: normal;
+  border: ; 1px, solid, transparente;
+}
+
+a:hover {
+  color : #f7f7e8;
+  border: 1px , solid, #557174;
+}
+
+.fab {
+  color: #557174;
+}
